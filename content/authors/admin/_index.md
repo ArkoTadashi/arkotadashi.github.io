@@ -47,9 +47,9 @@ profiles:
 
 interests:
   - Graphs and Algorithms
-  - Secure AI
   - Machine Learning
-  - Cybersecurity
+  - Cryptography
+  - Secure AI
 
 education:
   - area: BS Computer Science
